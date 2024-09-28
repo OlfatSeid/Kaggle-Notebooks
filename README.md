@@ -10,3 +10,6 @@
 
 ## Audio Classification 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/audio-classification)
+
+## Fine-Tuning Llama3.1 -Q&A  
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/fine-tuning-llama3-1-q-a)
