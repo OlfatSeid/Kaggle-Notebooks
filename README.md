@@ -13,3 +13,7 @@
 
 ## Fine-Tuning Llama3.1 -Q&A  
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/fine-tuning-llama3-1-q-a)
+
+## Fine-Tuning Llama3.2 for Sentiment Analysis.
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/fine-tuning-llama3-2-for-sentiment-analysis)
+
