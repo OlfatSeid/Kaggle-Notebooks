@@ -16,4 +16,6 @@
 
 ## Fine-Tuning Llama3.2 for Sentiment Analysis.
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/fine-tuning-llama3-2-for-sentiment-analysis)
-
+*************************************************************************
+## Sentiment Analysis-Logistic-Regression
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/sentiment-analysis-logistic-regression)
