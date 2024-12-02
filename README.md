@@ -19,6 +19,6 @@
 ## Sentiment Analysis-Logistic-Regression
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/sentiment-analysis-logistic-regression)
 ****************************************************************************
-## https://www.kaggle.com/code/olfatsyed/code-generation-with-code-llama
+## Code Generation with Code Llama
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]( https://www.kaggle.com/code/olfatsyed/code-generation-with-code-llama)
 ****************************************************************************
