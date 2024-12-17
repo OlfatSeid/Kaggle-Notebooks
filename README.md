@@ -25,3 +25,6 @@
 ## RAG System with Gemma2-9b
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/rag-system-with-gemma2-9b)
 ****************************************************************************
+## Hybrid RAG with Qwen2.5
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/hybrid-rag-with-qwen2-5)
+****************************************************************************
