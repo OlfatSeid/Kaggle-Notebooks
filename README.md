@@ -30,4 +30,4 @@
 ****************************************************************************
 ## Image Captioning with Qwen2 VL
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/image-captioning-with-qwen2-vl)
-****************************************************************************
+******************************************************************************
