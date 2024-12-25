@@ -32,4 +32,5 @@
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/image-captioning-with-qwen2-vl)
 *******************************************************************************
 https://www.kaggle.com/code/olfatsyed/ocr-with-qwen2vl-gradio
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/olfatsyed/image-captioning-with-qwen2-vl)
 *******************************************************************************
